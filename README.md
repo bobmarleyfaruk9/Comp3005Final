@@ -1,4 +1,4 @@
-Installation: Assumed that client has node and npm installed on their machine.
+Installation: Assumed that client has node, npm and sqlite3 installed on their machine.
               - cd into project directory
               - npm install
               - node server.js
